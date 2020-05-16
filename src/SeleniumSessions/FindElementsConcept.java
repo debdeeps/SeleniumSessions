@@ -12,7 +12,7 @@ public class FindElementsConcept {
 
 	public static void main(String[] args) {
 
-		System.setProperty("webdriver.chrome.driver", "/Users/naveenkhunteta/Downloads/chromedriver");	
+		System.setProperty("webdriver.chrome.driver", "C:\\Software\\chromedriver.exe");	
 
 		WebDriver driver = new ChromeDriver(); //launch chrome
 		
